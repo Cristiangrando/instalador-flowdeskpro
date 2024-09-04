@@ -1,11 +1,11 @@
 deploy_password=AKwWM4Qu2GRppJ7
 pg_pass=AKwWM4Qu2GRppJ7
 redis_pass=AKwWM4Qu2GRppJ7
-deploy_email=seuemail@gmail.com
+deploy_email=cristiangrando@outlook.com
 repositorio=https://github.com/flowdeskpro/flowdeskpro.git
 nome_instancia=flowdeskpro
 porta_postgre_intancia=5432
-frontend_url=front.seusite.com.br
+frontend_url=chat.corpchat.com.br
 frontend_porta=4000
-backend_url=back.seusite.com.br
+backend_url=api.corpchat.com.br
 backend_porta=3000
